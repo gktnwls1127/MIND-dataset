@@ -1,3 +1,4 @@
 download/
 MIND_data/
 backup/
+*.tsv
